@@ -1,2 +1,2 @@
 # odin-recipes
-During this first half of section 1, I've learned the basics of html, git, & github. From creating a html boilerplate, to github commit etiquette, I feel ready to display the culmination of my knowledge with this delicious recipe. 
+During this first half of section 1, I've learned the basics of html, git, & github. From creating a html boilerplate, to github commit etiquette, I feel ready to display the culmination of my knowledge with this delicious recipe.
