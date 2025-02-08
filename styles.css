@@ -1,0 +1,23 @@
+* {   
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: lemonchiffon;
+}
+
+h1 {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+p {
+    mix-blend-mode: darken;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    border: 3px solid black;
+    display: inline-block;
+}
